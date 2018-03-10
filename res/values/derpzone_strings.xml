@@ -1083,4 +1083,10 @@
     <string name="hide_lockscreen_status_bar_title">Hide status bar</string>
     <string name="hide_lockscreen_status_bar_summary">Touch status bar to toggle visibility</string>
     
+   <!-- Oreo Recents Style -->
+    <string name="recents_type_title">Oreo Recents Layout</string>
+    <string name="recents_stock">Stock</string>
+    <string name="recents_grid">Grid</string>
+    <string name="recents_go">Android Go</string>
+
 </resources>
