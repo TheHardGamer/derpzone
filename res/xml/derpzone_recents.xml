@@ -33,7 +33,7 @@
      </PreferenceCategory>
 
      <PreferenceCategory
-         android:key="recents_ui_oreo_recents_category"
+         android:key="recents_ui_oreo_recents_category">
 
     <PreferenceCategory
         android:key="slim_recents_category"
